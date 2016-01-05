@@ -1,5 +1,5 @@
 # Communicating Effectively For Success
-This is an intro sentence about the contents of the Course 1 directory.
+This is a record of all my assignments and projects from the vital Communications course at Modern Developer. All links to each assignment and project are duly provided.
 
 ## Sections
 
